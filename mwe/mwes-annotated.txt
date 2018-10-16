@@ -12,7 +12,6 @@ ação indenizatória	0	0
 ação judicial	0	0
 ação monitória	0	0
 ação penal	0	0
-ação penal	0	0
 ação penal privada	0	0
 ação proposta	0	0
 ação rescisória	0	0
@@ -49,7 +48,6 @@ aviso prévio	0	0
 base de cálculo	0	0
 bens públicos	0	0
 caixa de assistência	0	0
-caixa de assistência	0	0
 câmara dos deputados	0	0
 capital social	0	0
 caráter permanente	0	0
@@ -76,13 +74,9 @@ congresso nacional	0	0
 conselheiros federais	0	0
 conselho federal	0	0
 conselho nacional	0	0
-conselho nacional	0	0
 conselho seccional	0	0
-conselho seccional	0	0
-conselhos seccionais	0	0
 consórcio público	0	0
 constituição da república	0	0
-constituição federal	0	0
 constituição federal	0	0
 conta corrente	0	0
 contas da união	0	0
@@ -251,7 +245,6 @@ nexo de causalidade	0	0
 norma coletiva	0	0
 normas constitucionais	0	0
 normas estatutárias	0	0
-normas estatutárias	0	0
 nota promissória	0	0
 obrigações sociais	0	0
 oficial de justiça	0	0
@@ -307,7 +300,6 @@ prestação de contas	0	0
 prestação de serviço	0	0
 prestação de serviços	0	0
 prestação do serviço	0	0
-prestação dos serviços	0	0
 pretensão punitiva	0	0
 previdência social	0	0
 primeira instância	0	0
@@ -330,7 +322,6 @@ processo sem resolução	0	0
 processo trabalhista	0	0
 procurador geral	0	0
 projeto de lei	0	0
-projeto de lei	0	0
 proteção dos direitos	0	0
 proteção integral	0	0
 provimento do conselho	0	0
@@ -339,7 +330,6 @@ recuperação judicial	0	0
 recurso administrativo	0	0
 recurso de agravo	0	0
 recurso de apelação	0	0
-recurso de apelação	0	0
 recurso interposto	0	0
 recurso ordinário	0	0
 recursos públicos	0	0
@@ -347,7 +337,6 @@ regime aberto	0	0
 regime da comunhão	0	0
 regime inicial	0	0
 regime jurídico	0	0
-regimento interno	0	0
 regimento interno	0	0
 registro civil	0	0
 registro público	0	0
@@ -381,7 +370,6 @@ sentença judicial	0	0
 sentença penal	0	0
 sentença penal condenatória	0	0
 sentença transitada	0	0
-serviço público	0	0
 serviço público	0	0
 serviços profissionais	0	0
 servidores públicos	0	0
@@ -432,5 +420,4 @@ verbas rescisórias	0	0
 verbas resilitórias	0	0
 vice presidente	0	0
 vínculo empregatício	0	0
-vinte e quatro	0	0
 vista dos autos	0	0
