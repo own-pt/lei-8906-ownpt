@@ -1,0 +1,436 @@
+ação anulatória	0	0
+ação civil	0	0
+ação civil pública	0	0
+ação declaratória	0	0
+ação de cobrança	0	0
+ação de divórcio	0	0
+ação de improbidade	0	0
+ação de responsabilidade	0	0
+ação direta	0	0
+ação direta de inconstitucionalidade	0	0
+ação indenizatória	0	0
+ação judicial	0	0
+ação monitória	0	0
+ação penal	0	0
+ação penal	0	0
+ação penal privada	0	0
+ação proposta	0	0
+ação rescisória	0	0
+ação trabalhista	0	0
+acidente do trabalho	0	0
+adicional de insalubridade	0	0
+adicional de periculosidade	0	0
+adicional noturno	0	0
+administração pública	0	0
+administrador judicial	0	0
+agravo de instrumento	0	0
+ajuizamento da ação	0	0
+alteração contratual	0	0
+area criminal	0	0
+arma de fogo	0	0
+assembleia geral	0	0
+assembleia legislativa	0	0
+assessoria jurídica	0	0
+atividade econômica	0	0
+ato infracional	0	0
+ato normativo	0	0
+atos constitutivos	0	0
+atos privativos	0	0
+atos processuais	0	0
+audiência de conciliação	0	0
+audiência de instrução	0	0
+audiência designada	0	0
+auto de infração	0	0
+autoridade competente	0	0
+autoridade policial	0	0
+autorização judicial	0	0
+autos do processo	0	0
+aviso prévio	0	0
+base de cálculo	0	0
+bens públicos	0	0
+caixa de assistência	0	0
+caixa de assistência	0	0
+câmara dos deputados	0	0
+capital social	0	0
+caráter permanente	0	0
+carta precatória	0	0
+categoria profissional	0	0
+causa de aumento	0	0
+causa própria	0	0
+celebração do contrato	0	0
+citação por edital	0	0
+cláusula penal	0	0
+código civil	0	0
+código de processo	0	0
+código do consumidor	0	0
+código penal	0	0
+coisa julgada	0	0
+comissão eleitoral	0	0
+competência legislativa	0	0
+comunhão parcial	0	0
+comunhão universal	0	0
+concurso material	0	0
+concurso público	0	0
+condicional do processo	0	0
+congresso nacional	0	0
+conselheiros federais	0	0
+conselho federal	0	0
+conselho nacional	0	0
+conselho nacional	0	0
+conselho seccional	0	0
+conselho seccional	0	0
+conselhos seccionais	0	0
+consórcio público	0	0
+constituição da república	0	0
+constituição federal	0	0
+constituição federal	0	0
+conta corrente	0	0
+contas da união	0	0
+contrato de compra	0	0
+contrato de prestação de servicos	0	0
+contravenção penal	0	0
+convenção americana	0	0
+corporal culposa	0	0
+corte interamericana	0	0
+crédito tributário	0	0
+crime comum	0	0
+crime de furto	0	0
+crime de homicídio	0	0
+crime de lesão	0	0
+crime de roubo	0	0
+crime doloso	0	0
+cumprimento da obrigação	0	0
+cumprimento da pena	0	0
+cumprimento de pena	0	0
+curso do prazo	0	0
+dano moral	0	0
+danos materiais	0	0
+danos morais	0	0
+decisão interlocutória	0	0
+decisão judicial	0	0
+decisão recorrida	0	0
+declaratória de constitucionalidade	0	0
+decreto legislativo	0	0
+dedicação exclusiva	0	0
+defensoria pública	0	0
+defensor público	0	0
+defesa do consumidor	0	0
+defesa dos direitos	0	0
+delegacia de polícia	0	0
+delegado de polícia	0	0
+depósito recursal	0	0
+deputado federal	0	0
+deputados federais	0	0
+desagravo público	0	0
+deslocamento de competência	0	0
+dezoito anos	0	0
+dia útil	0	0
+direito brasileiro	0	0
+direito de preferência	0	0
+direito de representação	0	0
+direito internacional	0	0
+direito privado	0	0
+direito processual	0	0
+direito público	0	0
+direito real	0	0
+direitos civis	0	0
+direitos fundamentais	0	0
+direitos humanos	0	0
+direitos políticos	0	0
+dispositivo do código	0	0
+distrito federal	0	0
+dívida ativa	0	0
+doença mental	0	0
+duplo grau	0	0
+economia mista	0	0
+efeito suspensivo	0	0
+embargos de declaração	0	0
+embargos infringentes	0	0
+empresa pública	0	0
+empresas mercantis	0	0
+empresas públicas	0	0
+ensino fundamental	0	0
+entendimento consolidado	0	0
+equiparação salarial	0	0
+escritório de advocacia	0	0
+escritórios de advocacia	0	0
+escritura pública	0	0
+estabelecimento comercial	0	0
+estado de sítio	0	0
+estado puerperal	0	0
+estágio profissional	0	0
+estatuto da advocacia	0	0
+estatuto da criança	0	0
+estatuto da oab	0	0
+exame de ordem	0	0
+execução fiscal	0	0
+executivo judicial	0	0
+exercício da atividade	0	0
+exercício da profissão	0	0
+exercício do mandato	0	0
+exercício profissional	0	0
+ex esposa	0	0
+família substituta	0	0
+fatos narrados	0	0
+fazenda pública	0	0
+fins lucrativos	0	0
+forma da lei	0	0
+função social	0	0
+funcionário público	0	0
+furto qualificado	0	0
+garantia do juízo	0	0
+governador do estado	0	0
+governo federal	0	0
+grave violação	0	0
+habeas corpus	0	0
+habeas data	0	0
+homicídio culposo	0	0
+homicídio doloso	0	0
+homicídio qualificado	0	0
+honorários advocatícios	0	0
+honorários contratuais	0	0
+honorários de advogado	0	0
+honorários de sucumbência	0	0
+honorários periciais	0	0
+horas diárias	0	0
+horas extraordinárias	0	0
+impacto ambiental	0	0
+imposto de renda	0	0
+imprensa oficial	0	0
+improbidade administrativa	0	0
+incidente de deslocamento	0	0
+infração disciplinar	0	0
+infração penal	0	0
+infrações disciplinares	0	0
+inquérito policial	0	0
+inscrição suplementar	0	0
+instituição de ensino	0	0
+instituição financeira	0	0
+instrumento particular	0	0
+interesse público	0	0
+interposição de recurso	0	0
+intervenção federal	0	0
+inversão do ônus	0	0
+jornada de trabalho	0	0
+juizados especiais	0	0
+juízo competente	0	0
+juízo deprecado	0	0
+julgado da sentença	0	0
+julgado improcedente	0	0
+julgado procedente	0	0
+justa causa	0	0
+justiça comum	0	0
+justiça do estado	0	0
+justiça do trabalho	0	0
+justiça estadual	0	0
+justiça federal	0	0
+legítima defesa	0	0
+lei municipal	0	0
+lei ordinária	0	0
+lei processual	0	0
+lesão corporal culposa	0	0
+lesão corporal leve	0	0
+lesões corporais	0	0
+letra de câmbio	0	0
+licença maternidade	0	0
+licenciamento ambiental	0	0
+livramento condicional	0	0
+mandado de segurança	0	0
+medida cautelar	0	0
+medida judicial	0	0
+medida liminar	0	0
+medida provisória	0	0
+medidas cautelares	0	0
+meio ambiente	0	0
+membros do conselho	0	0
+ministério do trabalho	0	0
+ministério público	0	0
+não obstante	0	0
+negócio jurídico	0	0
+nexo de causalidade	0	0
+norma coletiva	0	0
+normas constitucionais	0	0
+normas estatutárias	0	0
+normas estatutárias	0	0
+nota promissória	0	0
+obrigações sociais	0	0
+oficial de justiça	0	0
+ônus da prova	0	0
+ordem constitucional	0	0
+ordem dos advogados	0	0
+ordem dos advogados do brasil	0	0
+ordem pública	0	0
+ordenamento jurídico	0	0
+órgão ambiental	0	0
+órgão competente	0	0
+órgão julgador	0	0
+pacto antenupcial	0	0
+pagamento da dívida	0	0
+parte contrária	0	0
+parte interessada	0	0
+partido político	0	0
+partidos políticos	0	0
+patrimônio público	0	0
+pena de morte	0	0
+pena restritiva	0	0
+perdas e danos	0	0
+personalidade jurídica	0	0
+pessoa física	0	0
+pessoa jurídica	0	0
+pessoas jurídicas	0	0
+pessoas naturais	0	0
+petição inicial	0	0
+plano de recuperação	0	0
+plano de saúde	0	0
+pleno direito	0	0
+poder executivo	0	0
+poder familiar	0	0
+poder judiciário	0	0
+poder legislativo	0	0
+poder público	0	0
+policiais militares	0	0
+policial militar	0	0
+ponto de vista	0	0
+prazo de validade	0	0
+prazo legal	0	0
+prazo prescricional	0	0
+prazo recursal	0	0
+prazos processuais	0	0
+preceito fundamental	0	0
+prescrição da pretensão	0	0
+presidente da câmara	0	0
+presidente da república	0	0
+presidente da seccional	0	0
+presidente do conselho	0	0
+presidente do tribunal	0	0
+prestação de contas	0	0
+prestação de serviço	0	0
+prestação de serviços	0	0
+prestação do serviço	0	0
+prestação dos serviços	0	0
+pretensão punitiva	0	0
+previdência social	0	0
+primeira instância	0	0
+prisão em flagrante	0	0
+prisão preventiva	0	0
+procedimento administrativo	0	0
+procedimento sumaríssimo	0	0
+processo administrativo	0	0
+processo administrativo disciplinar	0	0
+processo civil	0	0
+processo criminal	0	0
+processo de execução	0	0
+processo disciplinar	0	0
+processo do trabalho	0	0
+processo judicial	0	0
+processo legislativo	0	0
+processo penal	0	0
+processos disciplinares	0	0
+processo sem resolução	0	0
+processo trabalhista	0	0
+procurador geral	0	0
+projeto de lei	0	0
+projeto de lei	0	0
+proteção dos direitos	0	0
+proteção integral	0	0
+provimento do conselho	0	0
+reclamação trabalhista	0	0
+recuperação judicial	0	0
+recurso administrativo	0	0
+recurso de agravo	0	0
+recurso de apelação	0	0
+recurso de apelação	0	0
+recurso interposto	0	0
+recurso ordinário	0	0
+recursos públicos	0	0
+regime aberto	0	0
+regime da comunhão	0	0
+regime inicial	0	0
+regime jurídico	0	0
+regimento interno	0	0
+regimento interno	0	0
+registro civil	0	0
+registro público	0	0
+reintegração de posse	0	0
+relações de consumo	0	0
+renúncia ao mandato	0	0
+representante legal	0	0
+república federativa	0	0
+requisitos legais	0	0
+requisitos previstos	0	0
+reserva de poderes	0	0
+resíduos sólidos	0	0
+resolução do mérito	0	0
+responsabilidade civil	0	0
+responsabilidade solidária	0	0
+revisão criminal	0	0
+rio de janeiro	0	0
+rito ordinário	0	0
+salário mínimo	0	0
+salários mínimos	0	0
+sanção disciplinar	0	0
+sanções disciplinares	0	0
+santa catarina	0	0
+são paulo	0	0
+sede de recurso	0	0
+segredo de justiça	0	0
+segunda câmara	0	0
+sentença arbitral	0	0
+sentença condenatória	0	0
+sentença judicial	0	0
+sentença penal	0	0
+sentença penal condenatória	0	0
+sentença transitada	0	0
+serviço público	0	0
+serviço público	0	0
+serviços profissionais	0	0
+servidores públicos	0	0
+servidor público	0	0
+servidor público federal	0	0
+sessão legislativa	0	0
+sigilo profissional	0	0
+sistema jurídico	0	0
+sistema jurídico constitucional	0	0
+situação hipotética	0	0
+situação narrada	0	0
+sociedade civil	0	0
+sociedade de advogados	0	0
+sociedade empresária	0	0
+sociedade limitada	0	0
+sociedade unipessoal	0	0
+solução de controvérsias	0	0
+súmula vinculante	0	0
+superior tribunal	0	0
+supremo tribunal federal	0	0
+território nacional	0	0
+texto constitucional	0	0
+título executivo	0	0
+título executivo extrajudicial	0	0
+título executivo judicial	0	0
+título extrajudicial	0	0
+transação penal	0	0
+transitada em julgado	0	0
+trânsito em julgado	0	0
+tribunais de ética	0	0
+tribunal de contas	0	0
+tribunal de ética	0	0
+tribunal de justiça	0	0
+tribunal regional	0	0
+tribunal superior	0	0
+tributário nacional	0	0
+tributos devidos	0	0
+união estável	0	0
+unidade de conservação	0	0
+unidades de conservação	0	0
+utilidade pública	0	0
+vale transporte	0	0
+valores devidos	0	0
+valores mobiliários	0	0
+veículo automotor	0	0
+veículos automotores	0	0
+verbas rescisórias	0	0
+verbas resilitórias	0	0
+vice presidente	0	0
+vínculo empregatício	0	0
+vinte e quatro	0	0
+vista dos autos	0	0
