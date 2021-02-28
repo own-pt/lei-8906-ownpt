@@ -1,0 +1,302 @@
+  17 Advogado
+  16 Conselho Federal da Ordem dos Advogados do Brasil
+  13 Lei
+  12 Economia
+  12 Direito
+  11 União Europeia
+   9 Sociedade
+   9 Ética
+   6 Tribunal
+   6 Primeira Guerra Mundial
+   6 Presidente
+   6 Língua portuguesa
+   6 Estados Unidos
+   6 Estado
+   6 Dinheiro
+   6 Congresso Nacional do Brasil
+   6 2018
+   5 Vaticano
+   5 Território
+   5 Justiça
+   5 Jair Bolsonaro
+   5 Greve
+   5 Europa Ocidental
+   5 Democracia
+   5 Década de 1970
+   5 Constituição
+   5 Brasília
+   5 Brasil
+   5 1 de janeiro
+   4 Setor terciário
+   4 Reino Unido
+   4 Poder Judiciário
+   4 Poder Executivo
+   4 Mandato
+   4 Juiz
+   4 Independência
+   4 Eleição
+   4 Conselho de Segurança das Nações Unidas
+   4 Comércio
+   4 Cidadania
+   4 Administração pública
+   3 Serviço público
+   3 Regimento interno
+   3 Regimento
+   3 Profissão
+   3 Primeiro-ministro
+   3 Presidencialismo
+   3 Poder Legislativo
+   3 Pessoa jurídica
+   3 Personalidade jurídica
+   3 Pena de morte
+   3 Partido político
+   3 Ouro
+   3 Jurisdição
+   3 Grande Depressão
+   3 Ensino superior
+   3 Educação
+   3 Contrato
+   3 Caixa Econômica Federal
+   3 África do Sul
+   3 Abastecimento
+   3 4 de julho
+   3 2015
+   3 1968
+   2 Tributo
+   2 Teatro
+   2 Supremo Tribunal Federal
+   2 Suíça
+   2 Sindicato
+   2 Sentença
+   2 Salário
+   2 Receita (economia)
+   2 Propriedade privada
+   2 Processo judicial
+   2 Processo
+   2 Princípio da sucumbência
+   2 Presidente dos Estados Unidos
+   2 Presidente do Brasil
+   2 Poder
+   2 Papa
+   2 Órgão (instrumento musical)
+   2 Orçamento
+   2 Multa
+   2 Magistrado
+   2 Língua alemã
+   2 Julgamento
+   2 Guerra
+   2 Governo
+   2 Federação
+   2 Exame da Ordem dos Advogados do Brasil
+   2 Escola
+   2 Epigrafia
+   2 Distrito Federal (Brasil)
+   2 Disciplina
+   2 Dia
+   2 Década de 1980
+   2 Década de 1960
+   2 Crime
+   2 Conselho Federal (Suíça)
+   2 Comunismo
+   2 Código de Ética e Disciplina da Ordem dos Advogados do Brasil
+   2 Banco
+   2 Autoridade
+   2 Assembleia constituinte
+   2 7 de novembro
+   2 5 de outubro
+   2 31 de janeiro
+   2 2 de abril
+   2 1973
+   2 1972
+   2 1971
+   2 1969
+   2 1963
+   1 Voz humana
+   1 Voto secreto
+   1 Votação
+   1 Vontade
+   1 Vice-presidente
+   1 Verdade
+   1 Urbanização
+   1 Transtorno mental
+   1 Transporte
+   1 Trânsito em julgado
+   1 Trabalhador
+   1 Título eleitoral
+   1 Tempo
+   1 Tecnologia
+   1 Sociedade simples
+   1 Sociedade empresária
+   1 Sequestro
+   1 Sentença normativa
+   1 Semana
+   1 Século XXI
+   1 Secretário-geral
+   1 Seção (botânica)
+   1 São Paulo
+   1 Salário mínimo
+   1 Rio de Janeiro (estado)
+   1 Revolução de 1930
+   1 República
+   1 Relação de emprego
+   1 Registro civil
+   1 Referendo
+   1 Razão social
+   1 Razão
+   1 Raios X
+   1 Publicidade
+   1 Professor
+   1 Procurador
+   1 Princípio do contraditório e da ampla defesa
+   1 Primeira instância
+   1 Preço
+   1 Política
+   1 Polícia
+   1 Paz
+   1 Patrimônio
+   1 Palavra
+   1 País
+   1 Oriente
+   1 Organização não governamental
+   1 Organização das Nações Unidas
+   1 Ordem dos Advogados Portugueses
+   1 Nazismo
+   1 Natureza
+   1 Município
+   1 Morte
+   1 Moral
+   1 Ministério Público
+   1 México
+   1 Meio ambiente
+   1 Matéria-prima
+   1 Mandado de segurança
+   1 Mandado de injunção
+   1 Maioria simples
+   1 Livro
+   1 Liminar
+   1 Licenciatura
+   1 Justiça social
+   1 Junta comercial
+   1 Juiz classista
+   1 Jornada de trabalho
+   1 Jogo de azar
+   1 Janeiro
+   1 Irreligião
+   1 Instituto dos Advogados Brasileiros
+   1 Imprensa
+   1 Igreja Católica
+   1 Hora
+   1 Hipótese
+   1 Habilitação
+   1 Habeas corpus
+   1 Graduação
+   1 Fundação pública
+   1 Fronteira
+   1 Filme de ação
+   1 Fevereiro
+   1 Fé
+   1 Fantasia (gênero)
+   1 Falência
+   1 Extinção
+   1 Estupro
+   1 Estrada
+   1 Estatuto
+   1 Estágio profissional
+   1 Estado de direito
+   1 Escrita
+   1 Empresário
+   1 Empresa pública
+   1 Empresa estatal
+   1 Empresa de economia mista
+   1 Empresa
+   1 Empregador
+   1 Empregado
+   1 Drogadição
+   1 Dolo
+   1 Documento
+   1 Discurso
+   1 Direitos humanos
+   1 Direito público
+   1 Direito penal
+   1 Direito civil
+   1 Dia útil
+   1 Deputado
+   1 Defensor público
+   1 Década de 1990
+   1 Década de 1930
+   1 Década de 1920
+   1 Cultura
+   1 Crédito
+   1 Convenção coletiva de trabalho
+   1 Contribuição parafiscal
+   1 Contravenção
+   1 Consolidação das Leis do Trabalho
+   1 Consoante velar
+   1 Concurso público
+   1 Concordata
+   1 Comunicação
+   1 Classe social
+   1 Ciência
+   1 Chile
+   1 Censura
+   1 Caso dativo
+   1 Cartório
+   1 Capital
+   1 Bacharelato
+   1 Área
+   1 Arbitragem (direito)
+   1 Amamentação
+   1 Alimentação
+   1 Advocacia-Geral da União
+   1 Adultério
+   1 Administração indireta
+   1 Administração direta
+   1 Ação direta de inconstitucionalidade
+   1 Ação direta
+   1 Ação civil pública
+   1 A Caixa
+   1 9 de dezembro
+   1 8 de dezembro
+   1 7 de dezembro
+   1 6 de janeiro
+   1 6 de dezembro
+   1 6 de abril
+   1 5 de setembro
+   1 5 de dezembro
+   1 5 de abril
+   1 4 de dezembro
+   1 31 de dezembro
+   1 3 de outubro
+   1 3 de agosto
+   1 27 de abril
+   1 26 de maio
+   1 23 de julho
+   1 23 de fevereiro
+   1 22 de julho
+   1 2017
+   1 2016
+   1 20 de julho
+   1 2 de janeiro
+   1 1990
+   1 1985
+   1 1982
+   1 1980
+   1 1979
+   1 1975
+   1 1974
+   1 1967
+   1 1966
+   1 1965
+   1 1964
+   1 1962
+   1 1961
+   1 1959
+   1 1958
+   1 1956
+   1 1932
+   1 1931
+   1 1915
+   1 18 de março
+   1 10 de dezembro
+   1 1 de setembro
+   1 1 de fevereiro

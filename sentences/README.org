@@ -4,15 +4,19 @@ http://wikifier.org
 user: arademaker
 userkey: qirghckzkhuqjrssrowmzgpcclupyp
 
+: split -p "CAPÍTULO" ../lei-8906.sent
+
+latter que joined the files into only 3.
+
 #+begin_src bash
-mkdir tmp
 cd tmp
-split -p "CAPÍTULO" ../lei-8906.sent
-for f in x*; do 
- curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d 'userKey=qirghckzkhuqjrssrowmzgpcclupyp' -d 'lang=pt' -d 'secondaryAnnotLanguage=pt' -d 'wikiDataClasses=true' -d 'ranges=true' -d 'partsOfSpeech=true' -d 'text@$f' -d 'support=true' http://www.wikifier.org/annotate-article > $f.tmp; 
+for f in x?.sent; do 
+ curl -X POST -H "Accept: application/json" -H "Content-Type: application/x-www-form-urlencoded" -d 'userKey=qirghckzkhuqjrssrowmzgpcclupyp' -d 'lang=pt' -d 'secondaryAnnotLanguage=en' -d 'wikiDataClasses=true' -d 'ranges=true' -d 'partsOfSpeech=true' --data-urlencode 'text@$f' -d 'support=true' http://wikifier.org/annotate-article > $(basename $f .sent).tmp;
  cat $f.tmp| jq > $f.json; 
 done
 #+end_src
+
+#+RESULTS:
 
 
 #+begin_src bash
